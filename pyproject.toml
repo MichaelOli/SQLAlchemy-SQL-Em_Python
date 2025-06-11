@@ -8,6 +8,7 @@ package-mode = false  # Desativa o modo de pacote, já que não há pasta aula17
 
 [tool.poetry.dependencies]
 python = "^3.11"
+sqlalchemy = "^2.0.41"
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
