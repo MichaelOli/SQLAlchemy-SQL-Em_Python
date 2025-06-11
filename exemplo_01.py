@@ -33,8 +33,8 @@ session.close()
 # Exemplo de uso do SQLAlchemy com SQLite
 # Este exemplo cria um banco de dados SQLite, define uma tabela de usuários,    
 # adiciona um usuário e consulta todos os usuários existentes.
-# Certifique-se de ter o SQLAlchemy instalado: pip install sqlalchemy
+# Certifique-se de ter o SQLAlchemy instalado: poetry add sqlalchemy
 
 # Para executar este código, certifique-se de ter o SQLAlchemy instalado:
-# pip install sqlalchemy
+# poetry add sqlalchemy
 # O banco de dados será criado no mesmo diretório do script com o nome "meubanco.db"
